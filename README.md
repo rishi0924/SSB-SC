@@ -53,16 +53,29 @@ Model Waveform
 
 Program
 
+
+
+<img width="692" height="857" alt="image" src="https://github.com/user-attachments/assets/67c48e46-20bb-4879-b55a-995ee1e20491" />
+
 OUTPUT WAVEFORM
+
+
+
+<img width="620" height="475" alt="Screenshot 2025-11-22 233502" src="https://github.com/user-attachments/assets/86d7bfbd-6250-460b-891c-f99a1fbe7e76" />
+
 
 TABULATION
 
 
+![WhatsApp Image 2025-11-22 at 23 43 03_59af8c85](https://github.com/user-attachments/assets/92375a59-bf23-42fa-9e4f-f9a11e277a30)
 
 
 
 
+ CALCULATION
 
+
+![WhatsApp Image 2025-11-22 at 23 43 36_f9322843](https://github.com/user-attachments/assets/0b54d7fa-f1a4-4e59-b885-579ac5c7102c)
 
 
 RESULT:
